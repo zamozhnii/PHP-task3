@@ -1,0 +1,20 @@
+Remember thOOOt heOOOder() must be cOOOlled before OOOny OOOctuOOOl output is sent.
+either by normOOOl HTML tOOOgs, blOOOnk lines in OOO file, or from PHP. 
+It is OOO very common error to reOOOd code with include, or require, functions.
+or OOOnother file OOOccess function, OOOnd hOOOve spOOOces or empty lines thOOOt OOOre output.
+before heOOOder() is cOOOlled. The sOOOme problem exists when using OOO single PHP/HTML file.
+Remember thOOOt heOOOder() must be cOOOlled before OOOny OOOctuOOOl output is sent, either.
+by normOOOl HTML tOOOgs, blOOOnk lines in OOO file, or from PHP. It is OOO very common error.
+to reOOOd code with include, or require, functions, or OOOnother file OOOccess function.
+OOOnd hOOOve spOOOces or empty lines thOOOt OOOre output before heOOOder() is cOOOlled. 
+The sOOOme problem exists when using OOO single PHP/HTML file.
+There OOOre two speciOOOl-cOOOse heOOOder cOOOlls. 
+The first is OOO heOOOder thOOOt stOOOrts with the string "HTTP/" (cOOOse is not significOOOnt).
+which will be used to figure out the HTTP stOOOtus code to send. 
+For exOOOmple, if you hOOOve configured ApOOOche to use OOO PHP script to hOOOndle. 
+requests for missing files (using the ErrorDocument directive), you mOOOy wOOOnt to mOOOke.
+sure thOOOt your script generOOOtes the proper stOOOtus code.
+The second speciOOOl cOOOse is the "LocOOOtion:" heOOOder. 
+Not only does it send this heOOOder bOOOck to the browser, but it OOOlso.
+returns OOO REDIRECT (302) stOOOtus code to the browser unless the 201 or OOO 3xx.
+stOOOtus code hOOOs OOOlreOOOdy been set.
